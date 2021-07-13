@@ -1,0 +1,120 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="jp.sio.testapp.mylocation"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:38:5-95
+11-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:38:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:39:5-97
+12-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:39:22-78
+13    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+13-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:40:5-105
+13-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:40:22-86
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:41:5-95
+14-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:41:22-76
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:42:5-96
+15-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:42:22-77
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:43:5-97
+16-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:43:22-78
+17    <uses-permission android:name="android.permission.WAKE_LOCK" />
+17-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:44:5-84
+17-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:44:22-65
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:45:5-83
+18-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:45:22-64
+19
+20    <application
+20-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:6:5-36:19
+21        android:allowBackup="true"
+21-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:7:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\226d5799dc1877ce4cfb6c81d3459d73\core-1.0.2\AndroidManifest.xml:22:18-86
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:icon="@mipmap/ic_launcher"
+25-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:8:9-43
+26        android:label="@string/app_name"
+26-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:9:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:10:9-54
+28        android:supportsRtl="true"
+28-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:11:9-35
+29        android:testOnly="true"
+30        android:theme="@style/AppTheme" >
+30-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:12:9-40
+31
+32        <!-- 縦方向に固定 -->
+33        <activity
+33-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:15:9-23:20
+34            android:name="jp.sio.testapp.mylocation.Activity.MyLocationActivity"
+34-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:15:19-62
+35            android:screenOrientation="portrait" >
+35-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:16:13-49
+36            <intent-filter>
+36-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:18:13-22:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:19:17-69
+37-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:19:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:21:17-77
+39-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:21:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:25:9-27:20
+43            android:name="jp.sio.testapp.mylocation.Activity.SettingActivity"
+43-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:25:19-59
+44            android:screenOrientation="portrait" >
+44-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:26:13-49
+45        </activity>
+46
+47        <service android:name="jp.sio.testapp.mylocation.Service.UebService" />
+47-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:29:9-63
+47-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:29:18-52
+48        <service android:name="jp.sio.testapp.mylocation.Service.UeaService" />
+48-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:30:9-63
+48-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:30:18-52
+49        <service android:name="jp.sio.testapp.mylocation.Service.CurrentLocationService" />
+49-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:31:9-75
+49-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:31:18-64
+50        <service android:name="jp.sio.testapp.mylocation.Service.NetworkService" />
+50-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:32:9-67
+50-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:32:18-56
+51        <service android:name="jp.sio.testapp.mylocation.Service.IareaService" />
+51-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:33:9-65
+51-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:33:18-54
+52        <service android:name="jp.sio.testapp.mylocation.Service.FlpService" />
+52-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:34:9-63
+52-->C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:34:18-52
+53
+54        <activity
+54-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+55            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+55-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+56            android:exported="false"
+56-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+57            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+57-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+58
+59        <meta-data
+59-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\09a73e8828332f639ca43c2c3d1e6559\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+60            android:name="com.google.android.gms.version"
+60-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\09a73e8828332f639ca43c2c3d1e6559\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+61            android:value="@integer/google_play_services_version" />
+61-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\09a73e8828332f639ca43c2c3d1e6559\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+62    </application>
+63
+64</manifest>

@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\54531643bfabc83efec3c4e16479adb9\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\e50297bba36ea36701b884196873e674\jetified-core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\fede1f66cd395620f31eb504f47da494\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\66321a63e8ca6f6b72914ecffcae2389\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\3f392cc22e19fb83f042001de95d5cde\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\e0a3fbecd9c81f60ec630e8111940c56\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\09a73e8828332f639ca43c2c3d1e6559\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\1b59029b491bf7acf1d16f78d39a83ea\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\82b098d90f80ffb52af0f8f6ab74ebec\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\9d4053b57d170770335ff225b77d62ba\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\bdfbb38555a741f74d62c90cf85e0b35\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\cf42197173a5963eb7bc3f515b186d59\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\a8f36a69659c55a007f35cfecb9dcfc6\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b437c8e4cf053fd87bc8836cb75ffd62\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\39bc12f0ae9182a12820380de3eccf45\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\142e93d95da0344235eb82ee7f05a108\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\30364a4e1d148d54a282aaa580ec2e4d\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\dcd86c4e1bc7b82faa13cfa95eb5ce30\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\d38c28a7a4bd66deb92fbaacca82413e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\18aae0e1403cb9536d945989108c14a5\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\226d5799dc1877ce4cfb6c81d3459d73\core-1.0.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\da65f00ec42518d02a4c37297e450cf1\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\85bbcabe709b3efb54d74d18f7977a81\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\9b14025540e1c0e0278fee415366684e\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\3e9337dfc055970a9422bc379c54bdcb\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\48eb1e8d8b8ad7006b2f3cf24b65d608\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\43726b0818544416fc2d4f3c6fa93c26\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\2e5171c78ee9dcf4bbac08d59c0f1ba1\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\884715ee5d4759e99f0bf4b3058e7279\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\31a15a162cd7bb718e862c0cc13bfa61\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\af090a78eaea8296976d6555a3a135f2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\4277c449ae4e7defb11901a027a49277\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:4:5-40
+		INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:6:5-36:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\fede1f66cd395620f31eb504f47da494\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\fede1f66cd395620f31eb504f47da494\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\66321a63e8ca6f6b72914ecffcae2389\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\66321a63e8ca6f6b72914ecffcae2389\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\3f392cc22e19fb83f042001de95d5cde\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\3f392cc22e19fb83f042001de95d5cde\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\e0a3fbecd9c81f60ec630e8111940c56\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\e0a3fbecd9c81f60ec630e8111940c56\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\09a73e8828332f639ca43c2c3d1e6559\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\09a73e8828332f639ca43c2c3d1e6559\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\226d5799dc1877ce4cfb6c81d3459d73\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\226d5799dc1877ce4cfb6c81d3459d73\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\da65f00ec42518d02a4c37297e450cf1\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\da65f00ec42518d02a4c37297e450cf1\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\226d5799dc1877ce4cfb6c81d3459d73\core-1.0.2\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:12:9-40
+activity#jp.sio.testapp.mylocation.Activity.MyLocationActivity
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:screenOrientation
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:15:19-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:21:27-74
+activity#jp.sio.testapp.mylocation.Activity.SettingActivity
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:25:9-27:20
+	android:screenOrientation
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:25:19-59
+service#jp.sio.testapp.mylocation.Service.UebService
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:29:9-63
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:29:18-52
+service#jp.sio.testapp.mylocation.Service.UeaService
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:30:9-63
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:30:18-52
+service#jp.sio.testapp.mylocation.Service.CurrentLocationService
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:31:9-75
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:31:18-64
+service#jp.sio.testapp.mylocation.Service.NetworkService
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:32:9-67
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:32:18-56
+service#jp.sio.testapp.mylocation.Service.IareaService
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:33:9-65
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:33:18-54
+service#jp.sio.testapp.mylocation.Service.FlpService
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:34:9-63
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:34:18-52
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:38:5-95
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:38:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:39:5-97
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:39:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:40:5-105
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:40:22-86
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:41:5-95
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:41:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:42:5-96
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:42:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:43:5-97
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:43:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:44:5-84
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:44:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:45:5-83
+	android:name
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml:45:22-64
+uses-sdk
+INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\54531643bfabc83efec3c4e16479adb9\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\54531643bfabc83efec3c4e16479adb9\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\e50297bba36ea36701b884196873e674\jetified-core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\e50297bba36ea36701b884196873e674\jetified-core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\fede1f66cd395620f31eb504f47da494\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\fede1f66cd395620f31eb504f47da494\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\66321a63e8ca6f6b72914ecffcae2389\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\66321a63e8ca6f6b72914ecffcae2389\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\3f392cc22e19fb83f042001de95d5cde\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\3f392cc22e19fb83f042001de95d5cde\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\e0a3fbecd9c81f60ec630e8111940c56\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\e0a3fbecd9c81f60ec630e8111940c56\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\09a73e8828332f639ca43c2c3d1e6559\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\09a73e8828332f639ca43c2c3d1e6559\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\1b59029b491bf7acf1d16f78d39a83ea\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\1b59029b491bf7acf1d16f78d39a83ea\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\82b098d90f80ffb52af0f8f6ab74ebec\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\82b098d90f80ffb52af0f8f6ab74ebec\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\9d4053b57d170770335ff225b77d62ba\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\9d4053b57d170770335ff225b77d62ba\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\bdfbb38555a741f74d62c90cf85e0b35\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\bdfbb38555a741f74d62c90cf85e0b35\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\cf42197173a5963eb7bc3f515b186d59\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\cf42197173a5963eb7bc3f515b186d59\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\a8f36a69659c55a007f35cfecb9dcfc6\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\a8f36a69659c55a007f35cfecb9dcfc6\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b437c8e4cf053fd87bc8836cb75ffd62\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b437c8e4cf053fd87bc8836cb75ffd62\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\39bc12f0ae9182a12820380de3eccf45\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\39bc12f0ae9182a12820380de3eccf45\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\142e93d95da0344235eb82ee7f05a108\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\142e93d95da0344235eb82ee7f05a108\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\30364a4e1d148d54a282aaa580ec2e4d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\30364a4e1d148d54a282aaa580ec2e4d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\dcd86c4e1bc7b82faa13cfa95eb5ce30\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\dcd86c4e1bc7b82faa13cfa95eb5ce30\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\d38c28a7a4bd66deb92fbaacca82413e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\d38c28a7a4bd66deb92fbaacca82413e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\18aae0e1403cb9536d945989108c14a5\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\18aae0e1403cb9536d945989108c14a5\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\226d5799dc1877ce4cfb6c81d3459d73\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\226d5799dc1877ce4cfb6c81d3459d73\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\da65f00ec42518d02a4c37297e450cf1\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\da65f00ec42518d02a4c37297e450cf1\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\85bbcabe709b3efb54d74d18f7977a81\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\85bbcabe709b3efb54d74d18f7977a81\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\9b14025540e1c0e0278fee415366684e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\9b14025540e1c0e0278fee415366684e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\3e9337dfc055970a9422bc379c54bdcb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\3e9337dfc055970a9422bc379c54bdcb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\48eb1e8d8b8ad7006b2f3cf24b65d608\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\48eb1e8d8b8ad7006b2f3cf24b65d608\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\43726b0818544416fc2d4f3c6fa93c26\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\43726b0818544416fc2d4f3c6fa93c26\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\2e5171c78ee9dcf4bbac08d59c0f1ba1\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\2e5171c78ee9dcf4bbac08d59c0f1ba1\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\884715ee5d4759e99f0bf4b3058e7279\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\884715ee5d4759e99f0bf4b3058e7279\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\31a15a162cd7bb718e862c0cc13bfa61\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\31a15a162cd7bb718e862c0cc13bfa61\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\af090a78eaea8296976d6555a3a135f2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\af090a78eaea8296976d6555a3a135f2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\4277c449ae4e7defb11901a027a49277\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\4277c449ae4e7defb11901a027a49277\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+		ADDED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ooshio\AndroidProject\MyLocation\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\b64aa4f17e23c4f3b9c5f8ff583bfd0d\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\09a73e8828332f639ca43c2c3d1e6559\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\09a73e8828332f639ca43c2c3d1e6559\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\nttdocomo\.gradle\caches\transforms-2\files-2.1\09a73e8828332f639ca43c2c3d1e6559\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_icon.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_setting.xml.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_icon.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\ooshio\\AndroidProject\\MyLocation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
